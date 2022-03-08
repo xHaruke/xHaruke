@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**xHaruke/xHaruke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of his own.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on
+  * [Simple-DankGrinder](https://github.com/xHaruke/Simple-DankGrinder), a simple dank grinder bot.
+   
+- 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Instagram: [@xHaruke(https://twitter.com/xHaruke)
+  
+  Discord: [Polar#6880](https://discord.com/users/852848188942581764)
+  
+  <p align="center">
+   <img src="https://inv.wtf/widget/chill">
+  </p>
+  
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=xHaruke&theme=blueberry&count_private=true&hide_border=true&line_height=25">
+  </p>
+  
+ <p align="center">
+  <img src="https://lanyard.cnrad.dev/api/852848188942581764">
+ </p>
+
+<!-- This README was heavily inspired by https://github.com/GamingGeek, go check him out, he does amazing things! -->
