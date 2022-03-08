@@ -7,9 +7,9 @@ My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of h
    
 - 📫 How to reach me:
 
-  Instagram: [@xHaruke(https://twitter.com/xHaruke)
+  Instagram: [@xHaruke](https://twitter.com/xHaruke)
   
-  Discord: [Polar#6880](https://discord.com/users/852848188942581764)
+  Discord: [Haruke#9681](https://discord.com/users/852848188942581764)
   
   <p align="center">
    <img src="https://inv.wtf/widget/chill">
