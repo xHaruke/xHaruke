@@ -11,7 +11,7 @@ My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of h
   
   Discord: [Haruke#9681](https://discord.com/users/852848188942581764)
   
-  Website: [xharuke.github.io](https://xharuke.github.io/)
+  Website: [xharuke.github.io/haruke](https://xharuke.github.io/haruke/)
   
   <p align="center">
    <a href="https://discord.gg/nZBX4Eqvzz"> 
