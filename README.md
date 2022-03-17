@@ -18,7 +18,7 @@ My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of h
   </p>
   
   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=xHaruke&theme=blueberry&count_private=true&hide_border=true&line_height=25">
+   <img src="https://github-readme-stats.vercel.app/api?username=xHaruke&theme=onedark&count_private=true&hide_border=true&line_height=25">
   </p>
   
  <p align="center">
