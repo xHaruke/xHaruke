@@ -14,15 +14,21 @@ My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of h
   Website: [xharuke.github.io/haruke/](https://xharuke.github.io/haruke/)
   
   <p align="center">
-   <img src="https://inv.wtf/widget/chill">
+   <a href="https://discord.gg/nZBX4Eqvzz"> 
+    <img src="https://inv.wtf/widget/chill">
+   </a>
   </p>
   
   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=xHaruke&show_icons=true&include_all_commits=true&theme=onedark&count_private=true&hide_border=true&line_height=25">
+   <a href="https://github.com/xHaruke?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=xHaruke&show_icons=true&include_all_commits=true&theme=onedark&count_private=true&hide_border=true&line_height=25">
+   </a>
   </p>
   
  <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/852848188942581764?idleMessage=Probably watching anime">
+  <a href="https://discordapp.com/users/206875427631923200">
+   <img src="https://lanyard.cnrad.dev/api/852848188942581764?idleMessage=Probably watching anime">
+  </a> 
  </p>
 
 <!-- This README was heavily inspired by https://github.com/GamingGeek, go check him out, he does amazing things! -->
