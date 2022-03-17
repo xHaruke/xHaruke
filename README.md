@@ -21,7 +21,7 @@ My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of h
   
   <p align="center">
    <a href="https://github.com/xHaruke?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=xHaruke&show_icons=true&include_all_commits=true&theme=onedark&count_private=true&hide_border=true&line_height=25">
+    <img src="https://github-readme-stats.vercel.app/api?username=xHaruke&show_icons=true&include_all_commits=true&theme=onedark&count_private=true&hide_border=true&line_height=25&border_radius=25">
    </a>
   </p>
   
