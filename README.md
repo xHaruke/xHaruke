@@ -25,7 +25,7 @@ My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of h
   
  <p align="center">
   <a href="https://discordapp.com/users/852848188942581764">
-   <img src="https://lanyard.cnrad.dev/api/852848188942581764?idleMessage=Probably watching anime">
+   <img src="https://lanyard.cnrad.dev/api/852848188942581764?idleMessage=probably watching anime">
   </a> 
  </p>
  
