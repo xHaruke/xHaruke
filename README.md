@@ -3,13 +3,13 @@
 My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of his own.
 
 - 🔭 I’m currently working on
-  * [Simple-DankGrinder](https://github.com/xHaruke/Simple-DankGrinder), a simple dank grinder bot.
+  * [fotd-selfbot](https://github.com/xHaruke/fotd-selfbot), a simple fact of the day bot.
    
 - 📫 How to reach me:
 
   Instagram: [@xHaruke](https://instagram.com/xHaruke)
   
-  Discord: [Haruke#9681](https://discord.com/users/852848188942581764)
+  Discord: [@xharuke](https://discord.com/users/852848188942581764)
   
   Website: [xharuke.github.io/haruke/](https://xharuke.github.io/haruke/)
 
