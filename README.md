@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Haruke and I'm a 13 year old kid who wants to code a discord bot of his own.
+My name is Haruke and I'm a 14 year old kid who can't even code.
 
 - 🔭 I’m currently working on
   * [fotd-selfbot](https://github.com/xHaruke/fotd-selfbot), a simple fact of the day bot.
