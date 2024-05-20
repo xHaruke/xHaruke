@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Haruke, and I'm a 14-year-old kid who can't even code.
+My name is Haruke, and I'm a 15-year-old kid who can't even code.
 
 - 🔭 I’m currently working on
   * [fotd-selfbot](https://github.com/xHaruke/fotd-selfbot), a simple fact of the day bot.
