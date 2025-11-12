@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Haruke, and I'm a 15-year-old kid who can't even code.
-
 - 🔭 I’m currently working on
   * [youtube-subtitles-mcp](https://github.com/xHaruke/youtube-subtitles-mcp), a MCP server to feed context about youtube videos.
    
