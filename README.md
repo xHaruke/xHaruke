@@ -4,20 +4,8 @@
   * [youtube-subtitles-mcp](https://github.com/xHaruke/youtube-subtitles-mcp), a MCP server to feed context about youtube videos.
    
 - 📫 How to reach me:
-
-  Instagram: [@xHaruke](https://instagram.com/xHaruke)
   
   Discord: [@xharuke](https://discord.com/users/852848188942581764)
-  
-  Website: [xharuke.github.io/haruke/](https://xharuke.github.io/haruke/)
-
-### - Discord Server
-
-  <p align="center">
-   <a href="https://discord.gg/nZBX4Eqvzz"> 
-    <img src="https://inv.wtf/widget/chill">
-   </a>
-  </p>
   
 ### - Discord Account
   
